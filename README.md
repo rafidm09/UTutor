@@ -4,6 +4,11 @@
 ![GitHub contributors](https://img.shields.io/github/contributors/joselozano2003/SENG-401-Project?logo=github&color=yellow)
 ![Github pull requests](https://img.shields.io/github/issues-pr/joselozano2003/SENG-401-Project?logo=github)
 
+## Check out the project. It's live
+
+https://seng-401-mirror.vercel.app/
+
+
 ## 📝 Contributors
 
 - Hamza Gohar
